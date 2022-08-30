@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/games_screen_backgroun"
+    tools:context=".GamesScreen">
+
+    <Button
+        android:id="@+id/siPuzzle"
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:layout_marginBottom="448dp"
+        android:background="@drawable/button_design_res_2"
+        android:elevation="15dp"
+        android:padding="6dp"
+        android:text="@string/SELF_Improvement_puzzle"
+        android:textColor="@color/blue_dark"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.524"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/nums_for_dumbs"
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:layout_marginBottom="304dp"
+        android:background="@drawable/button_design_5"
+        android:elevation="15dp"
+        android:padding="6dp"
+        android:text="@string/Nums_for_dumbs"
+        android:textColor="@color/blue_dark"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/digitalMemory"
+        android:layout_width="350dp"
+        android:layout_height="120dp"
+        android:layout_marginBottom="160dp"
+        android:background="@drawable/button_design_res_1"
+        android:elevation="15dp"
+        android:padding="6dp"
+        android:text="@string/DigitalMemory"
+        android:textColor="@color/blue_dark"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.491"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/sdg_3_btn3"
+        android:layout_width="150dp"
+        android:layout_height="80dp"
+        android:layout_marginBottom="32dp"
+        android:background="@drawable/button_design_res_1"
+        android:elevation="15dp"
+        android:padding="6dp"
+        android:text="@string/BACK"
+        android:textColor="@color/blue_dark"
+        android:textSize="26sp"
+        android:textStyle="bold"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.122"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/home_title3"
+        android:layout_width="0dp"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="64dp"
+        android:layout_marginEnd="32dp"
+        android:background="@color/background"
+        android:fontFamily="sans-serif-smallcaps"
+        android:gravity="center_horizontal"
+        android:text="@string/GAMES"
+        android:textColor="#03093A"
+        android:textSize="65sp"
+        android:textStyle="bold"
+        app:layout_constraintEnd_toEndOf="parent"
+
+        app:layout_constraintHorizontal_bias="1.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:shapeAppearance="@style/circular_shape_1"
+        tools:ignore="TextContrastCheck,DuplicateSpeakableTextCheck" />
+</androidx.constraintlayout.widget.ConstraintLayout>

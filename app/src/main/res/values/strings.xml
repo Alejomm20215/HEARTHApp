@@ -1,0 +1,334 @@
+<resources>
+    <string name="app_name">HEARTHApp</string>
+    <string name="LOG_IN">LOG IN</string>
+    <string name="git">MORE ABOUT US</string>
+    <string name="email">EMAIL</string>
+    <string name="Telegram">TELEGRAM</string>
+    <string name="About_this_app">ABOUT THE APP</string>
+
+    <string name="asa">OUR GOALS</string>
+
+    <string name="data_cont">DATA CONTRIBUTOR</string>
+    <string name="SIGN_IN">SIGN IN</string>
+    <string name="Ususu">User/Email</string>
+    <string name="PuzzleName">I CAN, PUZZLE GAME</string>
+    <string name="puzz_description">Welcome to I Can!, an user interactive interface that allows you to pick items from one image and drop it inside a box (complete puzzles). Pick one image from the screen and start having fun meanwhile you try to discover the magic inside every image!</string>
+    <string name="Passss">Password</string>
+    <string name="confirmPass">Confirm Password</string>
+    <string name="GO">GO!</string>
+    <string name="or">or</string>
+    <string name="lock">LOCK</string>
+    <string name="graph_title">USER ANALYSIS</string>
+    <string name="home_title">HOME</string>
+    <string name="graphContent">Chart analysis still on development</string>
+    <string name="play">PLAY</string>
+    <string name="state_test">STATE TEST</string>
+    <string name="user_title">USER FRAGMENT</string>
+    <string name="analysis_title">ANALYSIS FRAGMENT</string>
+    <string name="resources_title">RESOURCES FRAGMENT</string>
+    <string name="game_name">SCREENSCROLL ZOMBIES</string>
+    <string name="Instructions">INSTRUCTIONS</string>
+    <string name="next_tit">NEXT</string>
+    <string name="back_tit">BACK</string>
+    <string name="continue_text">CONTINUE</string>
+    <string name="learn">START</string>
+    <string name="contribute">CONTRIBUTE</string>
+    <string name="true_btn">TRUE</string>
+    <string name="false_btn">FALSE</string>
+    <string name="bibliography">BIBLIOGRAPHY</string>
+    <string name="GAMES">GAMES</string>
+    <string name="SELF_Improvement_puzzle">S.I PUZZLES</string>
+    <string name="SS_ZOMBIE">SS ZOMBIE</string>
+    <string name="BACK">BACK HOME</string>
+
+
+    <string name="Concentration">CONCENTRATION</string>
+    <string name="SmartPhone_Addiction">ADDICTION</string>
+    <string name="Mindset">MINDSET</string>
+    <string name="Advices">ADVICES</string>
+    <string name="SDG3">SDG3</string>
+    <string name="Benefits">BENEFITS</string>
+
+    <string name="OW">How much time do you spend using your smartphone in a day?</string>
+    <string name="more_than_3">More than 3 and a half hours</string>
+    <string name="more_than_2">More than 2 and a half hours and less than 3 and a half hours</string>
+    <string name="more_than_1">More than 1 hour and a half less than 2 and a half hours</string>
+    <string name="more_than_33">More than 30 minutes - less than 1 hour and 30 minutes</string>
+    <string name="less_than_3">less than 30 minutes</string>
+    <string name="even_when_y">Even when you\'re with family and friends, you often only look at your smartphone.\u000D\n</string>
+    <string name="strongly_ag">STRONGLY AGREE</string>
+    <string name="agree">AGREE</string>
+    <string name="neutral">NEUTRAL</string>
+    <string name="disagree">DISAGREE</string>
+    <string name="strongly_di">STRONGLY DISAGREE</string>
+    <string name="it_s_easier">It\'s easier to talk on your smartphone than to talk in person.\u000D\n</string>
+    <string name="you_ve_had_">You\'ve had a bitter argument with the people around you over your smartphone.\u000D\n</string>
+    <string name="you_ve_hadp_">You\'ve had problems with your health or your daily life because of your smartphone.</string>
+    <string name="if_your_sma">If your smartphone isn\'t around, you\'re anxious</string>
+    <string name="you_ve_seen">You\'ve seen your smartphone right before you fall asleep.\u000D\n</string>
+    <string name="take_your_s">Take your smartphone with you when you go to the bathroom.\u000D\n</string>
+    <string name="you_look_at">You look at your smartphone when you eat.\u000D\n</string>
+    <string name="you_ve_trie">You\'ve tried to reduce your smartphone usage time.</string>
+    <string name="very_good_s">Very good! Stay it now!\u000D\n</string>
+    <string name="todo">TODO</string>
+    <string name="for_more_in">For more information about \nsmartphone addiction</string>
+    <string name="back_to_hom">Back to Home</string>
+    <string name="try_it_is_a">Try it is a bit risky\u000D\n</string>
+    <string name="it_s_danger">It\'s dangerous Take action quickly\u000D\n</string>
+    <string name="it_s_very_s">It\'s very serious, just ask for help!\u000D\n</string>
+    <string name="descri1">DESCRI!</string>
+    <string name="descri2">DESCRI2</string>
+    <string name="descri3">DESCRI3</string>
+    <string name="descri4">DESCRI4</string>
+    <string name="descri5">DESCRI5</string>
+    <string name="descri6">DESCRI6</string>
+    <string name="descri7">DESCRI7</string>
+    <string name="descri8">DESCRI8</string>
+    <string name="descri9">DESCRI9</string>
+    <string name="descri10">DESCRI10</string>
+    <string name="start">START!</string>
+    <string name="right_to_ho">Right to Home</string>
+    <string name="smartphone_1">Smartphone addiction measurement test</string>
+    <string name="some_id1">1</string>
+    <string name="some_id2">2</string>
+    <string name="some_id3">3</string>
+    <string name="some_id4">4</string>
+    <string name="some_id5">5</string>
+    <string name="some_id6">6</string>
+    <string name="some_id7">7</string>
+    <string name="some_id8">8</string>
+    <string name="some_id9">9</string>
+    <string name="some_id10">10</string>
+
+    <string name="home">Home</string>
+    <string name="analysis">Analysis</string>
+    <string name="Resources">Resources</string>
+    <string name="User">User</string>
+    <string name="h0me">home</string>
+    <string name="analysiss">analysis</string>
+    <string name="resourcess">resources</string>
+    <string name="users">User</string>
+    <string name="title_activity_state_test">StateTest</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="t">T</string>
+    <string name="f">F</string>
+
+    <string name="title_desc_1">GAME DESCRIPTION</string>
+    <string name="title_desc_2">Explanation</string>
+    <string name="title_desc_3">How to play</string>
+    <string name="DigitalMemory">DIGITAL MEMORY</string>
+    <string name="Nums_for_dumbs">NUMS FOR DUMBS</string>
+
+    <string name="desc_digitalMemory">Phones remember who we are, at the point that we do not know who knows more about who (you do not know a lot about your phone); but here we have one solution: MEMORY!. Is the brain skill that lets you remember (who you are, what you like, what you know), and this solution is a minigame that tries to help you improve that skill. You just have to touch the cards on the view and memorize the images inside them, and finally, touch more cards until you find the last card you memorized. GET FUN WHILE YOU TRAIN THIS AMAZING SKILL!</string>
+
+    <string name="description_game_2">A total of 6 questions consisted of various information about smartphone addiction. (Smartphone addiction syndrome, prevention methods, etc.)</string>
+    <string name="description_game_1">The villagers have turned into zombies! Take the quiz to turn the townspeople back into humans!</string>
+    <string name="description_game_3">Read the question and press T if the question is correct.</string>
+    <string name="description_game_4">If the question is wrong, press F.</string>
+    <string name="description_game_5">There are a total of 6 questions. Repeat the above steps to solve all 6 issues. Press the T or F button to go directly to the next question. You cannot go back to a problem you have passed, so think carefully before clicking.</string>
+    <string name="description_game_6">The quiz questions used the contents of the About Smartphone Addiction category.</string>
+
+
+    <string name="q_excessive">Excessive use of smartphones can lead to diseases such as pseudo-developmental disorders, game addiction, ADHD, and tic disorders.</string>
+    <string name="q_the_brain">The brains of people who are addicted to smartphones are not very different from those of people who are not addicted to smartphones.</string>
+    <string name="q_looking_a">Looking at the phone screen for a long time naturally increases the number of blinks, which can lead to dry eye syndrome.</string>
+    <string name="q_a_digital">A digital genius is a phenomenon in which modern people are too dependent on smartphones, and various emergency and memory abilities decline, showing severe brain function deterioration.</string>
+    <string name="q_the_more_">The more unnecessary applications you have on your smartphone, the less time you spend using your smartphone unnecessarily.\u000D\n</string>
+    <string name="q_nomophobi">Nomophobia Syndrome is an abbreviation for \u00E2\u0080\u0098No mobile phone phobia\u00E2\u0080\u0099 and refers to a syndrome in which people feel phobias without a smartphone.</string>
+
+    //YoungerMen
+
+    <string name="q_smartphon">Smartphone addiction refers to the act of not using a smartphone at all.</string>
+    <string name="q_some_seri">Some seriously ill people with digital dementia cannot memorize their family\'s phone numbers, nor can they find their way without navigation.</string>
+    <string name="q_if_you_sp">If you spend a lot of time on your smartphone, focusing on a small screen for a long time can easily cause strain on your eyes, which can be a direct cause of tendinosis of the eye or decreased vision.</string>
+    <string name="q_if_you_lo">If you look at your smartphone a lot, it is visually exposed until you fall asleep, so an afterimage remains in your head, making it difficult to fall asleep.</string>
+    <string name="q_if_you_tr">If you try to make a habit of not using your smartphone outside of set times, you will not use your smartphone outside of the time you use your smartphone, which will help prevent smartphone addiction.</string>
+    <string name="q_if_you_tr2">If you try to satisfy your heart through a method other than a smartphone and change your reckless smartphone use pattern to something else, it will not help you to solve your smartphone addiction.</string>
+
+
+    //OldMen
+
+    <string name="q_turning_o">Turning off unnecessary alarms helps prevent smartphone addiction.</string>
+    <string name="q_being_add">Being addicted to smartphones is far from healthy rewards.</string>
+    <string name="q_blue_ligh">Blue light emitted from smartphones inhibits the secretion of the sleep-inducing hormone, melatonin, in our body, preventing healthy sleep.</string>
+    <string name="q_if_childr">If children play the game repeatedly for a long time, only the occipital lobe develops and the frontal lobe falls, so thinking and judgment may be impaired.</string>
+    <string name="q_if_you_wa">If you walk while looking at your smartphone, your attention is drawn to your smartphone, increasing the risk of a traffic accident or colliding with other pedestrians.</string>
+    <string name="q_fomo_synd">FOMO syndrome refers to a fear of missing out on or being left out of one\'s own flow.</string>
+
+    //RespuestasDuras
+
+
+    <string name="you_got_all">You got all the questions right! \nEveryone has returned as a human.\u000D\n</string>
+    <string name="congratulat">Congratulations!!</string>
+
+
+    <string name="you_got_one">You got one\n thing wrong.\nThe five have returned as humans.\u000D \n</string>
+    <string name="well_done_">\u000DWell done!\u000D\n</string>
+
+
+    <string name="you_got_two">You got two questions wrong. The four returned as humans.\u000D\n</string>
+    <string name="cool_">\u000Dcool!</string>
+
+
+    <string name="you_got_thr">You got three \nquestions wrong. \nThe three returned \nas humans.</string>
+    <string name="not_bad_">Not bad!</string>
+
+    <string name="you_have_fo">You have four \nquestions wrong. \nOnly two returned\n as humans.</string>
+    <string name="do_your_bes">Do your best..!</string>
+
+
+    <string name="five_questi">Five questions \nare wrong.\nOnly one has \nreturned \nas a human.</string>
+    <string name="try_again_">Try again…</string>
+
+
+    <string name="you_didn_t_">You didn\'t get any questions right. \nNo one came back as a human.</string>
+    <string name="pease_study">Pease study....\u000D</string>
+    <string name="correct"><b>CORRECTNESS IS</b> \n
+                           <b>%1$d</b> OUT OF 6</string>
+    <string name="true_text">true</string>
+    <string name="false_text">false</string>
+    <string name="correct_answer">That\'s correct</string>
+    <string name="wrong_answer">That\'s incorrect</string>
+    <string name="a">Simran loves Chocolates.</string>
+    <string name="b">Simran Knows Following Skills:\n \t
+                     <b>Ballet</b>\n \t
+                     <b>HipHop</b></string>
+    <string name="c">Do You Think Simran Believes In:\n \t
+                     <b>Luck!!!</b></string>
+    <string name="d">Do You Think Simran Wants To Visit <b>Italy</b></string>
+    <string name="e">Simran Loves Loyalty.</string>
+    <string name="fa">Simran Sleeps Less</string>
+    <string name="next_text">next</string>
+    <string name="prev_text">previous</string>
+    <string name="title_activity_games">Games</string>
+
+    <string name="new_phrase">New phrase</string>
+    <string name="your_name">What\'s your name?</string>
+    <string name="user">User</string>
+    <string name="phrase">Phrase</string>
+    <string name="save">Save</string>
+    <string name="lets_begin">Let\'s get started?</string>
+    <string name="phrases_all">All the phrases</string>
+    <string name="phrases_motivation">Motivations phrases</string>
+    <string name="phrases_morning">Morning phrases</string>
+
+    <string name="click_for_mot">Touch me, I will give you motivation</string>
+
+    <string name="validation_mandatory_name">Inform your name.</string>
+    <string name="title_activity_instructions_puzzle">InstructionsPuzzle</string>
+
+    <string name="instruc_nfd">We thought it was time to train brain skills for enhancing focus and productivity, we found the next method ideal for people who is feeling a lack of those two skills: Solving problems. It is simple, just solving logic problems is enough to improve your entire brain. Now, IT IS TIME TO TRAIN!</string>
+    <string name="settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="click_on_me">--TOUCH ME--</string>
+    <string name="new_game">New Game</string>
+    <string name="M.O.N.N">M.O.N.N CHAT</string>
+
+    <string-array name="size_options">
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+
+    </string-array>
+
+    <string name="About">About Smartphone Addiction</string>
+    <string name="addiction_p">addiction phase</string>
+    <string name="you_use_you">You use your smartphone moderately, so it\'s still normal. Do not lose the current habit and keep it steady.</string>
+    <string name="Good">Good</string>
+
+    <string name="normal">Normal</string>
+    <string name="there_is_a_">There is a point that it can be dangerous because you use a smartphone a little bit. Constant management is necessary so as not to fall into smartphone addiction.</string>
+
+    <string name="dangerous">Dangerous</string>
+    <string name="smartphone_">Smartphone addiction symptoms may appear. When using a smartphone, the ability to control it is very poor, and you should try to use the smartphone systematically.</string>
+
+    <string name="very_seriou">Very serious</string>
+    <string name="you_are_spe">You are spending a lot of time in your daily life with a serious dependence on your smartphone. Excessive smartphone use can cause many problems. If you are experiencing a lot of problems, seek professional help.</string>
+
+
+    <string name="problem">problem</string>
+    <string name="smartphone_2">Smartphone severe disease outbreak</string>
+    <string name="due_to_exce">Due to excessive use of smartphones, the brain develops disproportionately, which can lead to social deficits such as pseudo-developmental disorders, game addiction, ADHD, tic disorder.</string>
+
+    <string name="similar_bra">Similar brains in drug addicts</string>
+    <string name="if_you_look">If you look at the brain of a person who is addicted to a smartphone, it looks similar to that of a drug addict. If you require an immediate response, such as a game, the frontal lobe doesn\'t give you a chance to develop because the occipital lobe processes it right away. If children play games repeatedly for a long time, only the occipital lobe develops and the frontal lobe declines, so thinking and judgment may be impaired.</string>
+
+
+    <string name="away_from_h">Away from healthy rewards</string>
+    <string name="the_fact_th">The fact that you can easily get pleasure without putting much effort into it is similar to gambling on a slot machine. Once you get used to these things, you get a healthy sense of achievement or pleasure with some effort. There are side effects that keep you away from the reward process.</string>
+
+    <string name="disruption_">disruption of daily life</string>
+    <string name="you_get_tir">You get tired of anything in the middle, but there are infinite contents such as smartphone games, webtoons, SNS, YouTube shopping, etc. It is difficult to stop because you can do something like this constantly.</string>
+
+    <string name="poor_commun">poor communication</string>
+    <string name="due_to_the_">Due to the smartphone, there are many cases of using a smartphone without having a conversation even when meeting. Nowadays, there are few people who do not use smartphones, but if they do not use them, they may fall into the information-oriented marginalized class and the conflict between generations may intensify.</string>
+
+    <string name="turtle_neck">turtle neck syndrome</string>
+    <string name="if_you_use_3">If you use your smartphone for a long time in the wrong posture, you are more likely to suffer from suffocating syndrome. Because the cell phone is often positioned below eye level, the eyes naturally turn downward, the cervical spine is damaged, and the pressure load on the neck becomes very high. If the posture of pulling the neck forward or bending the neck becomes a habit, the center of gravity moves forward, and later the ligaments of the neck and shoulder are stretched, resulting in turtle neck syndrome.</string>
+
+    <string name="eye_health">eye health</string>
+    <string name="concentrati">Concentrating on a small screen for a long time can cause strain on the eyes, which can lead to tendinosis of the eye or decreased vision. If you look at the phone screen for a long time, the number of times you blink naturally decreases, which can lead to dry eye syndrome. In addition, the use of electronic devices for a long period of time puts strain on the eyes and may cause vision loss, especially when using a smartphone in a dark environment.</string>
+
+    <string name="carpal_tunn">carpal tunnel syndrome</string>
+    <string name="if_you_use_4">If you use your fingers to operate a mobile phone, the muscles in your hand tend to become stiff. This can cause an abnormality in the median nerve of the hand, which can lead to carpal tunnel syndrome. Along with wrist pain, numbness around the thumb, index, and middle palms is severe, and when the symptoms worsen, the strength of the hand weakens and movement paralysis that prevents the use of the wrist may occur.</string>
+
+    <string name="if_you_use_5">If you use your fingers to operate a mobile phone, the muscles in your hand tend to become stiff. This can cause an abnormality in the median nerve of the hand, which can lead to carpal tunnel syndrome. Along with wrist pain, numbness around the thumb, index, and middle palms is severe, and when the symptoms worsen, the strength of the hand weakens and movement paralysis that prevents the use of the wrist may occur.</string>
+    <string name="sleep_distu">sleep disturbance</string>
+
+    <string name="blue_light_">Blue light emitted from smartphones inhibits the secretion of a sleep-inducing hormone called melatonin in our body, preventing healthy sleep. In addition, it is recommended not to look at the smartphone before going to sleep, as it is visually splendidly exposed before going to sleep, so an afterimage remains in the head and it is difficult to fall asleep easily.</string>
+
+    <string name="popcorn_bra">Popcorn Brain</string>
+    <string name="popcorn_bra2">Popcorn Brain, when we use various electronic devices, our brain does not respond to the slow and less stimulating situations in reality, but only to the stimulating and powerful situations of the digital and online worlds, like popcorn popping. You may become lethargic and numb, making it difficult to carry out your normal daily life, experiencing depression, and leading to more severe smartphone addiction.</string>
+
+    <string name="solutions">Solutions</string>
+
+
+    <string name="set_smartph1">1.Set smartphone usage time</string>
+    <string name="if_you_try_">If you try to make a habit of not using your smartphone outside of set times, you will not use your smartphone outside of the time you use your smartphone, which will help prevent smartphone addiction.</string>
+
+    <string name="delete_unne">2. Delete unnecessary applications</string>
+    <string name="as_the_numb">As the number of unnecessary applications on the smartphone increases, the amount of time spent using the smartphone unnecessarily increases. If you leave only necessary applications and delete unnecessary applications, unnecessary smartphone usage time can also disappear, thereby preventing smartphone addiction.</string>
+
+    <string name="don_t_use_y">3. Don\'t use your smartphone on the street\n</string>
+    <string name="it_is_a_goo">It is a good idea to keep your smartphone in your pocket when walking on the street. This is because if you walk while looking at your smartphone, your attention is drawn to your smartphone, which increases the risk of a traffic accident or colliding with other pedestrians.</string>
+
+    <string name="recognize_t">4. Recognize the cause of habitual use and find other solutions</string>
+    <string name="it_is_to_fi">It is to find the cause of habitual smartphone use and try a new healthy way to solve the cause. If you try to satisfy your heart through a method other than a smartphone, and change your reckless smartphone use pattern to something else, it will help solve your smartphone addiction.</string>
+
+    <string name="simple_prec">simple precautions</string>
+
+    <string name="turn_off_un">1. Turn off unnecessary alarms\n</string>
+    <string name="measure_sma">2. Measure smartphone usage time consistently\n</string>
+    <string name="keep_your_s">3. Keep your smartphone out of sight\n</string>
+    <string name="find_variou">4. Find various hobbies\n</string>
+    <string name="do_not_use_">5. Do not use your smartphone before going to bed\n</string>
+    <string name="replacing_s">6. Replacing smartphone usage time with time to give the brain a break, such as reading a book, exercising, or meditating</string>
+
+    <string name="various_syn">various syndromes</string>
+
+    <string name="nomophobia_">Nomophobia Syndrome</string>
+    <string name="no_mobile_p">No mobile phone phobia is an abbreviation for phobia, which means phobia. It has the meaning of feeling phobias without a phone.</string>
+
+    <string name="fomo_syndro">FOMO Syndrome</string>
+    <string name="abbreviatio">Abbreviation for Fear of missing out. It means fear of missing out. Feeling afraid of missing the flow or alienating yourself from it.</string>
+
+    <string name="jomo_syndro">JOMO Syndrome</string>
+    <string name="an_abbrevia">An abbreviation of Joy of missing out, as opposed to Fomo Syndrome, meaning to rather enjoy being left out.</string>
+
+    <string name="digital_iso">digital isolation syndrome</string>
+    <string name="a_symptom_o">A symptom of being isolated from the real world, feeling that it is more comfortable to communicate through a smartphone than to meet in person because I often communicate with people on smartphones. When it gets worse, it becomes difficult to communicate with others and have a social life.</string>
+
+    <string name="ghost_vibra">ghost vibration syndrome</string>
+    <string name="the_feeling">The feeling that the phone vibrates when it is not actually vibrating. The stronger the anxiety in interpersonal relationships, the more severe the symptoms. It is caused by a sense of duty or anxiety to hold the smartphone in hand for fear of being rejected by others.</string>
+
+
+</resources>

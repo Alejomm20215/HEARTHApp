@@ -1,0 +1,10 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Theme.HEARTHApp" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Primary brand color. -->
+        <item name="colorPrimary">@color/blue_dark</item>
+        <item name="colorPrimaryDark">@color/background</item>
+        <item name="colorAccent">@color/melocoton</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
